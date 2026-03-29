@@ -1,4 +1,5 @@
 I like building intelligence from data.
+![Profile views](https://komarev.com/ghpvc/?username=harifaly)
 
 <!--
 **harifaly/harifaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
