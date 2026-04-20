@@ -1,4 +1,6 @@
 I like building intelligence from data.
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TON_USERNAME)
 <!--</br><--![Profile views](https://komarev.com/ghpvc/?username=harifaly)-->
 
 <!--
