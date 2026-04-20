@@ -1,6 +1,6 @@
 I like building intelligence from data.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harifaly)
+<!--![GitHub Streak](https://streak-stats.demolab.com?user=harifaly)
 <!--</br><--![Profile views](https://komarev.com/ghpvc/?username=harifaly)-->
 
 <!--
